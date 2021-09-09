@@ -24,7 +24,7 @@ You should use the local IP address for local testing (localhost is fine). Write
 ![whitelist domain](./screenshots/whitelist.PNG)
 
 ### Config Callback URL
-Continue to scroll down to config the callback URL.
+Continue to scroll down to config the callback URL. (Search keyword: 网页帐号)
 ![callbackUrlConfig](./screenshots/callbackUrlConfig-1.PNG)
 
 Enter the callback URL.
