@@ -40,8 +40,8 @@ npm start
 
 Create a `.env` file, input your AppId and AppSecret with this format:
 ```
-APP_ID=wxe04ec8dd73095919
-APP_SECRET=3b472b691b6ee18da8a91c51cff0be59
+APP_ID=<Your-App-Id>
+APP_SECRET=<Your-App-Secret>
 ```
 
 There should be a wechat-info.json generated after you start the app.
